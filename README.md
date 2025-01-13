@@ -1,2 +1,3 @@
-# Jose_Maria_Tamayo-CV
-Este es mi CV: https://josetamayo28.github.io/Jose_Maria_Tamayo-CV/
+# CV3
+este es mi cv:
+https://josetm28.github.io/CV3/
